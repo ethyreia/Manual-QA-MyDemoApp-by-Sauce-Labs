@@ -1,6 +1,6 @@
 # mydemoapp-qa
 
-this repository contains the manual quality assurance documentation for the My Demo App e-commerce platform. the project demonstrates a systematic approach to verifying core application features and ensuring a stable user experience.
+this repository contains the manual quality assurance documentation for the MyDemoApp e-commerce platform. the project demonstrates a systematic approach to verifying core application features and ensuring a stable user experience.
 
 the primary deliverable is a Microsoft Excel workbook that serves as the central testing repository. this document includes a comprehensive test plan, step-by-step test cases, and a detailed defect tracker used to log and categorize issues found during execution.
 
