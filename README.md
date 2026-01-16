@@ -1,5 +1,3 @@
-# Manual QA: MyDemoApp by Sauce Labs
-
 # MyDemoApp - Manual Quality Assurance Project
 
 This repository contains the comprehensive manual quality assurance (QA) documentation for the **MyDemoApp** e-commerce platform. The project demonstrates a systematic approach to verifying core business features, ensuring functional accuracy, and maintaining a stable user experience.
