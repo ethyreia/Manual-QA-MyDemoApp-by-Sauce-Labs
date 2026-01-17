@@ -42,4 +42,4 @@ The results documented in the workbook highlight specific areas where the actual
 ├── Screenshots/                     # Evidence of defects/successful tests
 └── README.md                        # Project overview
 
-📍 By: Rea Oplegeda
+📍 By: Rea Oplegeda 📍
