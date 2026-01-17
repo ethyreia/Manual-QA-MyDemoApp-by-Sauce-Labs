@@ -38,8 +38,7 @@ The results documented in the workbook highlight specific areas where the actual
 ## 📂 Repository Structure
 ```text
 ├── Documentation/
-│   └── mydemoapp-qa.xlsx            # Central testing repository
-├── Screenshots/                     # Evidence of defects/successful tests
+│   └── mydemoapp-qa.xlsx            # Central testing repository                   
 └── README.md                        # Project overview
 
 📍 By: Rea Oplegeda
