@@ -35,10 +35,10 @@ The results documented in the workbook highlight specific areas where the actual
 
 ## 📂 Repository Structure
 ```text
+├── Application/                      
+│   └── mydemoapp.apk                # Application apk   
 ├── Documentation/
-│   └── mydemoapp-qa.xlsx            # Central testing repository
-├── Application                      
-│   └── mydemoapp.apk                # Application apk                   
+│   └── mydemoapp-qa.xlsx            # Central testing repository                
 └── README.md                        # Project overview
 
 📍 By: Rea Oplegeda
